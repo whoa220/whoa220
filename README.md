@@ -3,7 +3,8 @@
 I write documentation and make the occasional shitty program.
 
 ### Contact
-*Discord (primary means of communication):* WalterFish
+*Discord (primary means of communication):* whoa220
+
 
 [neocities](https://walterfish.neocities.org/)
 
