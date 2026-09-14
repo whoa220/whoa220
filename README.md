@@ -1,6 +1,6 @@
 ## Hi-diddly-ho, neighborino!
 
-I write documentation and make the occasional shitty program.
+I write documentation and make the occasional shitty program. I also go by "WalterFish"
 
 ### Contact
 *Discord (primary means of communication):* whoa220
